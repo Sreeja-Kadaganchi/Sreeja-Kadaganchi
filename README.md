@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on E-parking mobile application in Android Studio.<br>I am looking to collaborate on Android development projects, competitive programming challenges, and database-driven applications.<br>I am currently learning Data Analytics and Gen AI related concepts.<br>Ask me about programming,Android Studio,Web technologies.
+I am currently working on E-parking mobile application in Android Studio.<br>I am looking to collaborate on Android development projects, competitive programming challenges, and web applications.<br>I am currently learning Data Analytics and Gen AI related concepts.<br>Ask me about programming,Android Studio,Web technologies.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,3 @@ I am currently working on E-parking mobile application in Android Studio.<br>I a
 ![](https://github-readme-stats.vercel.app/api?username=Sreeja-Kadaganchi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sreeja-Kadaganchi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeja-Kadaganchi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
